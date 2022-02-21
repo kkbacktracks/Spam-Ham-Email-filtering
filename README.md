@@ -48,4 +48,4 @@ Step 2:
 	4) python hw1_main.py enron1 matrix_bow
 
 Step 3:
-	Find the complete report of this assignment with the name Final_Report.pdf
+	Find the complete report of this project with the name Final_Report.pdf
